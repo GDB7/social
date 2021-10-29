@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/social/static/css/main.cc76f473.chunk.css",
+    "main.js": "/social/static/js/main.bdbbb163.chunk.js",
+    "main.js.map": "/social/static/js/main.bdbbb163.chunk.js.map",
+    "runtime-main.js": "/social/static/js/runtime-main.b1d6b456.js",
+    "runtime-main.js.map": "/social/static/js/runtime-main.b1d6b456.js.map",
+    "static/js/2.200150a2.chunk.js": "/social/static/js/2.200150a2.chunk.js",
+    "static/js/2.200150a2.chunk.js.map": "/social/static/js/2.200150a2.chunk.js.map",
+    "static/js/3.7837cf2e.chunk.js": "/social/static/js/3.7837cf2e.chunk.js",
+    "static/js/3.7837cf2e.chunk.js.map": "/social/static/js/3.7837cf2e.chunk.js.map",
+    "index.html": "/social/index.html",
+    "static/css/main.cc76f473.chunk.css.map": "/social/static/css/main.cc76f473.chunk.css.map",
+    "static/js/2.200150a2.chunk.js.LICENSE.txt": "/social/static/js/2.200150a2.chunk.js.LICENSE.txt",
+    "static/media/Social_Logo-removebg.b5ad6622.png": "/social/static/media/Social_Logo-removebg.b5ad6622.png",
+    "static/media/Span-Logo.feca6cd1.jpeg": "/social/static/media/Span-Logo.feca6cd1.jpeg",
+    "static/media/Spannites1.ad82d363.jpg": "/social/static/media/Spannites1.ad82d363.jpg",
+    "static/media/brick-background.7429e4be.jpg": "/social/static/media/brick-background.7429e4be.jpg",
+    "static/media/brick-background3.5a795e84.jpg": "/social/static/media/brick-background3.5a795e84.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d6b456.js",
+    "static/js/2.200150a2.chunk.js",
+    "static/css/main.cc76f473.chunk.css",
+    "static/js/main.bdbbb163.chunk.js"
+  ]
+}
